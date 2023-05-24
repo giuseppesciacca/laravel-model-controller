@@ -1,1 +1,9 @@
 @import '~bootstrap/scss/bootstrap';
+
+.card {
+    img {
+        min-height: 370px;
+        object-fit: cover;
+        object-position: top;
+    }
+}
