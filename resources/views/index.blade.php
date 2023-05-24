@@ -2,7 +2,7 @@
 
 @section('content')
     <main>
-        <h1> {{}} </h1>
+        <h1> Homepage </h1>
 
     </main>
 @endsection
